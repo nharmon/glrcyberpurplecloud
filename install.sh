@@ -5,4 +5,4 @@ echo "deb [signed-by=/usr/share/keyrings/hashicorp-archive-keyring.gpg] https://
 
 apt update
 
-apt install azure-cli faker python3 python3-pip terraform
+apt install azure-cli faker python3 python3-pip terraform -y
