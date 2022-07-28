@@ -20,7 +20,7 @@ Go to Windows Store, and install
 
 > sudo apt update && sudo apt install terraform
 
-> pip install faker
+> pip3 install faker
 
 > git clone https://github.com/iknowjason/PurpleCloud
 
